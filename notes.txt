@@ -1,0 +1,19 @@
+.container
+.conatiner>row
+p*6
+lorem10 //10mots
+lorem*10 //10 lignes
+display-1 //akber wehed f taille
+        6
+
+vh --> flexible
+justify-content-center //fel west bel 3ordh
+align-items-center //fel west b toul
+m-1 //margin a9al haja
+m-5
+
+mb-1 //margin bottom
+mx-1 // margin al ymin w al ysar l axe des x
+my-1 // margin lfou9 w louta al axe des y
+mt-3 // margin top
+pb //padding bottom
